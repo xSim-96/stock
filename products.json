@@ -1,0 +1,66 @@
+{
+    "ART-001": {
+        "name": "Škatla S",
+        "category": "Embalaža",
+        "current_stock": 51.0,
+        "minimum_stock": 50.0,
+        "unit": "kos",
+        "purchase_price": 0.3
+    },
+    "ART-002": {
+        "name": "Škatla M",
+        "category": "Embalaža",
+        "current_stock": 127.0,
+        "minimum_stock": 30.0,
+        "unit": "kos",
+        "purchase_price": 0.45
+    },
+    "ART-003": {
+        "name": "Škatla L",
+        "category": "Embalaža",
+        "current_stock": 41.0,
+        "minimum_stock": 40.0,
+        "unit": "kos",
+        "purchase_price": 0.65
+    },
+    "ART-004": {
+        "name": "Lepilni trak",
+        "category": "Embalaža",
+        "current_stock": 30.0,
+        "minimum_stock": 20.0,
+        "unit": "kos",
+        "purchase_price": 1.2
+    },
+    "ART-005": {
+        "name": "Zaščitna folija",
+        "category": "Embalaža",
+        "current_stock": 31.0,
+        "minimum_stock": 20.0,
+        "unit": "rola",
+        "purchase_price": 2.5
+    },
+    "ART-006": {
+        "name": "Zaščitne rokavice",
+        "category": "Zaščitna oprema",
+        "current_stock": 30.0,
+        "minimum_stock": 10.0,
+        "unit": "par",
+        "purchase_price": 3.8
+    },
+    "ART-007": {
+        "name": "Črni marker",
+        "category": "Pisarniški material",
+        "current_stock": 17.0,
+        "minimum_stock": 15.0,
+        "unit": "kos",
+        "purchase_price": 0.9
+    },
+    "ART-008": {
+        "name": "Vijaki M6",
+        "category": "Pritrdilni material",
+        "current_stock": 514.0,
+        "minimum_stock": 100.0,
+        "unit": "kos",
+        "purchase_price": 0.04
+    }
+}
